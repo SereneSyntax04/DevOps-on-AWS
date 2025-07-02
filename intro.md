@@ -10,7 +10,10 @@
   - Speeds up product delivery
   - Improves quality
   - Enhances collaboration between Development and Operations teams
-     
+
+
+![image alt](https://github.com/SereneSyntax04/DevOps-on-AWS/blob/55328814944d70df402032ab518199d2c1301ea7/images/devops.png)
+
 ---
 
 ## ✅ When to Use **Shell Scripting**
@@ -19,6 +22,3 @@
   - Start/stop services, manage users, file operations, permissions.
 
 ---
-
-
-![image alt](imgurl)
