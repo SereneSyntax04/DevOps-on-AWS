@@ -64,6 +64,22 @@ Traditional software development is slow and causes delays due to rigid methods,
 - Tightly connected parts – One change can affect many other areas.
 - Hard to maintain – Big apps are tough to understand and manage.
 - Locked tech stack – Using one tech stack makes upgrades expensive and difficult.
-  
-## Issue 3: 
 
+![image alt](https://github.com/SereneSyntax04/DevOps-on-AWS/blob/685bc5511ba143bf45a27216dfb7820c4ae2fae2/images/monolithic.png)
+
+## Issue 3: Manual Processes
+- Slow and inconsistent – Manual work takes time and can vary each time.
+- Error-prone – Easy to miss steps or make mistakes.
+- Infrastructure setup – Manually configuring systems is time-consuming.
+- Testing depends on people – Developers may forget or skip tests, even with good intentions.
+- No guarantees – Repeating the same manual steps doesn't ensure the same results.
+
+![image alt](https://github.com/SereneSyntax04/DevOps-on-AWS/blob/685bc5511ba143bf45a27216dfb7820c4ae2fae2/images/manual.png)
+
+## Issue 4: Siloed Teams
+- Teams work separately – Business, dev, QA, ops, etc., are divided by roles.
+- Rigid hand-offs – Work is passed from one team to another in a slow, scheduled way.
+- Different goals/tools – Each team uses its own tools and follows its own priorities.
+- Hard to coordinate – Lack of shared ownership makes collaboration difficult.
+- Efficiency suffers – Projects slow down when everyone pulls in different directions.
+![image alt]()
