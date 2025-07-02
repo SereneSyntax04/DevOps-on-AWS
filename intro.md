@@ -16,9 +16,32 @@
 
 ---
 
-## ✅ When to Use **Shell Scripting**
+## Develpoer's focus 
 
-- **System-level tasks**
-  - Start/stop services, manage users, file operations, permissions.
+1. Change code quickly
+2. Release often
+3. Success = delivery speed
+
+## Operation's focus 
+1. Maintain application stability
+2. Ensure reliability, especially during high traffic
+3. Frequent releases = risk of instability
+
+## 🔧 DevOps Solution --
+1. Breaks Down Silos: 
+   Dev team finishes code → hands it to Ops → Ops faces deployment issues → blames Dev → QA finds bugs late → everyone frustrated.
+   DevOps breaks these walls and gets everyone working together, often from the start of the project.
+
+2. Encourages Collaboration + Automation: 
+   Teams share responsibility (Collaboration)
+   Builds, tests, deployments – all automated.Enables Continuous Integration/Delivery (CI/CD) pipelines.
+
+3. Balances Speed + Stability
+   DevOps isn’t just about going fast—it’s about going fast without breaking things.
+   - Developers can release frequently.
+   - Ops ensures the app stays stable, even under load.
+   - Automated testing, monitoring, and rollback plans help catch issues early and fix them quickly.
+
+
 
 ---
