@@ -1,4 +1,4 @@
-#  What is DevOps ? 
+#  🔧⚙️💻 What is DevOps ? 
 
 1.  **DevOps** is short for Development (Dev) and Operations (Ops). 
 **Dev** are the people and processes that create software. 
@@ -16,13 +16,13 @@
 
 ---
 
-## Develpoer's focus 
+## 🔧 Develpoer's focus 
 
 1. Change code quickly
 2. Release often
 3. Success = delivery speed
 
-## Operation's focus 
+## 💻 Operation's focus 
 1. Maintain application stability
 2. Ensure reliability, especially during high traffic
 3. Frequent releases = risk of instability
@@ -43,5 +43,16 @@
    - Automated testing, monitoring, and rollback plans help catch issues early and fix them quickly.
 
 
-
 ---
+
+# 🚫 Problems with Traditional Development Practices
+Traditional software development is slow and causes delays due to rigid methods, manual work, and disconnected teams. It makes delivering fast, high-quality apps difficult.
+
+## Waterfall Development
+- Slow and rigid: Not flexible, hard to make changes once started.
+- Fixed requirements: Everything is planned at the beginning and rarely changes.
+- Separate phases: Work is done step-by-step (design → build → test), not together.
+- Specialized teams: Each phase handled by different experts, causing slow handovers.
+- Tool and info mismatch: Teams often switch tools and need to clear up confusion during handoffs.
+- Late testing & security: These come after development, so fixing issues becomes costly and time-consuming.
+
