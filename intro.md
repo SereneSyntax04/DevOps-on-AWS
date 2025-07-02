@@ -33,10 +33,10 @@
    DevOps breaks these walls and gets everyone working together, often from the start of the project.
 
 2. Encourages Collaboration + Automation: 
-   Teams share responsibility (Collaboration)
+   Teams share responsibility (Collaboration). 
    Builds, tests, deployments – all automated.Enables Continuous Integration/Delivery (CI/CD) pipelines.
 
-3. Balances Speed + Stability
+3. Balances Speed + Stability:
    DevOps isn’t just about going fast—it’s about going fast without breaking things.
    - Developers can release frequently.
    - Ops ensures the app stays stable, even under load.
