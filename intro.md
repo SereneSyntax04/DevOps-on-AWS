@@ -82,4 +82,4 @@ Traditional software development is slow and causes delays due to rigid methods,
 - Different goals/tools – Each team uses its own tools and follows its own priorities.
 - Hard to coordinate – Lack of shared ownership makes collaboration difficult.
 - Efficiency suffers – Projects slow down when everyone pulls in different directions.
-![image alt]()
+![image alt](https://github.com/SereneSyntax04/DevOps-on-AWS/blob/64919ac482a93fbc93fef4c3715bfa7ca5266343/images/Siloed.jpg)
