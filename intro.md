@@ -48,11 +48,22 @@
 # 🚫 Problems with Traditional Development Practices
 Traditional software development is slow and causes delays due to rigid methods, manual work, and disconnected teams. It makes delivering fast, high-quality apps difficult.
 
-## Waterfall Development
+## Issue 1: Waterfall Development
 - Slow and rigid: Not flexible, hard to make changes once started.
 - Fixed requirements: Everything is planned at the beginning and rarely changes.
 - Separate phases: Work is done step-by-step (design → build → test), not together.
 - Specialized teams: Each phase handled by different experts, causing slow handovers.
 - Tool and info mismatch: Teams often switch tools and need to clear up confusion during handoffs.
 - Late testing & security: These come after development, so fixing issues becomes costly and time-consuming.
+  
+![image alt](https://github.com/SereneSyntax04/DevOps-on-AWS/blob/e8d86a0cd9a12da60f2f1c60a0b0b340bf06e310/images/waterfall.png) 
+
+## Issue 2: Monolithic Applications
+- All-in-one structure – Whole app is built and deployed together.
+- Redeploy everything – Even small changes need full app redeployment.
+- Tightly connected parts – One change can affect many other areas.
+- Hard to maintain – Big apps are tough to understand and manage.
+- Locked tech stack – Using one tech stack makes upgrades expensive and difficult.
+  
+## Issue 3: 
 
