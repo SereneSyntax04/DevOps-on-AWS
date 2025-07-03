@@ -17,7 +17,7 @@
 
 ---
 
-## 🔧 Develpoer's focus 
+## 🔧 Developer's focus 
 
 1. Change code quickly
 2. Release often
