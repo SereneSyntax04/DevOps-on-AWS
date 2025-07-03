@@ -3,4 +3,6 @@
 
 ## content
 
-[1. INTRODUCTION:](https://github.com/SereneSyntax04/DevOps-on-AWS/blob/main/intro.md)
+[1. INTRODUCTION](https://github.com/SereneSyntax04/DevOps-on-AWS/blob/main/intro.md)
+
+[2. DevOps METHODOLOGY](https://github.com/SereneSyntax04/DevOps-on-AWS/blob/main/methodology.md)
