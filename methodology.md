@@ -49,6 +49,7 @@ With cloud APIs, teams can automate infrastructure tasks, apply updates, track c
 
 A DevOps pipeline is an automated sequence of stages that takes code from development all the way through to deployment and monitoring. This process, often implemented as a CI/CD pipeline, helps teams ensure code quality, security, and fast, consistent releases by automating repetitive tasks and minimizing human errors. By integrating the right tools, DevOps teams can streamline workflows, eliminate bottlenecks, and continuously improve their delivery process, making deployments more reliable and efficient.
 
+---
 
 ## 3.  DevOps Tools
 
