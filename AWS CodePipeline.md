@@ -41,3 +41,5 @@ The pipeline has STAGES, just like different sections in your bakery:
 
 
 **CodePipeline takes your code and walks it through a step-by-step process—automatically—until it's ready to be used by real people.**
+
+![image alt](https://github.com/SereneSyntax04/DevOps-on-AWS/blob/ba2bee791e6177c7660d58ade62caa85236c4774/images/php-project-release-pipeline.png)
