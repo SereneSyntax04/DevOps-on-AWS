@@ -49,7 +49,7 @@ To do DevOps well, you need the right tools that boost your team’s workflow an
 - Connects CodeCommit → CodeBuild → CodeDeploy into a smooth, fast, reliable pipeline.
 - [Read More](https://github.com/SereneSyntax04/DevOps-on-AWS/blob/main/AWS%20CodePipeline.md)
 
-![image alt](https://github.com/SereneSyntax04/DevOps-on-AWS/blob/626ba92b2e5372283492da1df408474bee3285c4/images/pipeline.png)
+![image alt](https://github.com/SereneSyntax04/DevOps-on-AWS/blob/c69b4bde09d8b82740e81392828e11d41cc94f5e/images/php-project-release-pipeline.png)
 
 ---
 <br>
@@ -61,7 +61,7 @@ To do DevOps well, you need the right tools that boost your team’s workflow an
 - Think: GitHub inside AWS – private, scalable, and easy to integrate with CI/CD pipelines.
 - ![Read More]()
   
-![image alt](https://github.com/SereneSyntax04/DevOps-on-AWS/blob/626ba92b2e5372283492da1df408474bee3285c4/images/codecomit.jpg)
+![image alt]()
 
 ---
 <br>
@@ -72,7 +72,7 @@ To do DevOps well, you need the right tools that boost your team’s workflow an
 - No servers to manage. Works with any language and scales automatically for fast feedback.
 - ![Read More]()
   
-![image alt](https://github.com/SereneSyntax04/DevOps-on-AWS/blob/626ba92b2e5372283492da1df408474bee3285c4/images/codebuild.png)
+![image alt]()
 
 ---
 <br>
@@ -83,7 +83,7 @@ To do DevOps well, you need the right tools that boost your team’s workflow an
 - Supports zero-downtime updates, traffic shifting, and automatic rollback if something breaks.
 - ![Read More]()
 
-![image alt](https://github.com/SereneSyntax04/DevOps-on-AWS/blob/626ba92b2e5372283492da1df408474bee3285c4/images/codedeploy.png)
+![image alt]()
 
 ---
 
