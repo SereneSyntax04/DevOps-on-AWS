@@ -47,7 +47,7 @@ To do DevOps well, you need the right tools that boost your team’s workflow an
 - Helps you **model, visualize, and automate** software release processes.
 - A continuous delivery (CD) service that automates your entire software release workflow—from code to production.
 - Connects CodeCommit → CodeBuild → CodeDeploy into a smooth, fast, reliable pipeline.
-- ![Read More]()
+- [Read More](https://github.com/SereneSyntax04/DevOps-on-AWS/blob/main/AWS%20CodePipeline.md)
 
 ![image alt](https://github.com/SereneSyntax04/DevOps-on-AWS/blob/626ba92b2e5372283492da1df408474bee3285c4/images/pipeline.png)
 
