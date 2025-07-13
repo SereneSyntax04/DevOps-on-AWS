@@ -70,7 +70,7 @@ To do DevOps well, you need the right tools that boost your team’s workflow an
 # AWS CODEBUILD
 - A fully managed build service that compiles your source code, runs tests, and creates deployable packages.
 - No servers to manage. Works with any language and scales automatically for fast feedback.
-- [Read More]()
+- [Read More](https://github.com/SereneSyntax04/DevOps-on-AWS/blob/main/AWS%20CodeBuild.md)
   
 ![image alt](https://github.com/SereneSyntax04/DevOps-on-AWS/blob/59a4913fa54b239de5a18182c8774e7ce058ca17/images/codebuild.webp)
 
