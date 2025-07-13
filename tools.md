@@ -81,7 +81,7 @@ To do DevOps well, you need the right tools that boost your team’s workflow an
 # AWS CODEDEPLOY
 - A deployment automation service that ships your application to EC2, Lambda, ECS, or on-prem servers.
 - Supports zero-downtime updates, traffic shifting, and automatic rollback if something breaks.
-- [Read More]()
+- [Read More](https://github.com/SereneSyntax04/DevOps-on-AWS/blob/main/AWS%20CodeDeploy.md)
 
 ![image alt](https://github.com/SereneSyntax04/DevOps-on-AWS/blob/59a4913fa54b239de5a18182c8774e7ce058ca17/images/deploy.webp)
 
