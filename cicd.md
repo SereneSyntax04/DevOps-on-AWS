@@ -51,4 +51,4 @@ AWS CodeStar:
 - Good for beginners or quick project bootstrapping.
 
 
-![image alt]()
+![image alt](https://github.com/SereneSyntax04/DevOps-on-AWS/blob/c79187e8c54babf3e16769956d45c7781a67b0ef/images/codestar.png)
