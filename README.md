@@ -11,4 +11,6 @@
 
 [4.  AWS DevOps Tools](https://github.com/SereneSyntax04/DevOps-on-AWS/blob/main/tools.md)
 
-[5.  AWS CLI](https://github.com/SereneSyntax04/DevOps-on-AWS/blob/main/AWS%20CLI.md)
+[5.  CI/CD Pipeline project](https://github.com/SereneSyntax04/DevOps-on-AWS/blob/main/cicd.md)
+
+[6.  AWS CLI](https://github.com/SereneSyntax04/DevOps-on-AWS/blob/main/AWS%20CLI.md)
