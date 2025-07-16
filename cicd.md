@@ -44,11 +44,3 @@ AWS CodePipeline:
 
 ![image alt](https://github.com/SereneSyntax04/DevOps-on-AWS/blob/21a7d67751f2a0db93ff7b8ce37868edbb7c5c6a/images/pipelineimg.png)
 
-
-## 5️⃣ Simplify Setup (Optional but Handy)
-AWS CodeStar:
-- All-in-one dashboard to set up your projects with CodeCommit, CodeBuild, CodeDeploy, and CodePipeline.
-- Good for beginners or quick project bootstrapping.
-
-
-![image alt](https://github.com/SereneSyntax04/DevOps-on-AWS/blob/c79187e8c54babf3e16769956d45c7781a67b0ef/images/codestar.png)
