@@ -12,8 +12,9 @@
   - Enhances collaboration between Development and Operations teams
   - Organizations of all sizes, from small startups to big enterprises, can benefit from adopting DevOps.
 
-
-![image alt](https://github.com/SereneSyntax04/DevOps-on-AWS/blob/55328814944d70df402032ab518199d2c1301ea7/images/devops.png)
+<p align="center">
+  <img src="https://github.com/SereneSyntax04/DevOps-on-AWS/blob/55328814944d70df402032ab518199d2c1301ea7/images/devops.png" alt="description" width="400"/>
+</p>
 
 ---
 
@@ -46,7 +47,8 @@
 
 ---
 
-# 🚫 Problems with Traditional Development Practices
+<h1 align="center">🚫 Problems with Traditional Development Practices</h1>
+
 Traditional software development is slow and causes delays due to rigid methods, manual work, and disconnected teams. It makes delivering fast, high-quality apps difficult.
 
 ## Issue 1: Waterfall Development
@@ -56,8 +58,13 @@ Traditional software development is slow and causes delays due to rigid methods,
 - Specialized teams: Each phase handled by different experts, causing slow handovers.
 - Tool and info mismatch: Teams often switch tools and need to clear up confusion during handoffs.
 - Late testing & security: These come after development, so fixing issues becomes costly and time-consuming.
-  
-![image alt](https://github.com/SereneSyntax04/DevOps-on-AWS/blob/e8d86a0cd9a12da60f2f1c60a0b0b340bf06e310/images/waterfall.png) 
+
+  <p align="center">
+  <img src="https://github.com/SereneSyntax04/DevOps-on-AWS/blob/e8d86a0cd9a12da60f2f1c60a0b0b340bf06e310/images/waterfall.png"
+     alt="description" 
+     width="400"/>
+  </p>
+
 
 ## Issue 2: Monolithic Applications
 - All-in-one structure – Whole app is built and deployed together.
@@ -66,8 +73,13 @@ Traditional software development is slow and causes delays due to rigid methods,
 - Hard to maintain – Big apps are tough to understand and manage.
 - Locked tech stack – Using one tech stack makes upgrades expensive and difficult.
 
-![image alt](https://github.com/SereneSyntax04/DevOps-on-AWS/blob/685bc5511ba143bf45a27216dfb7820c4ae2fae2/images/monolithic.png)
+  <p align="center">
+  <img src="https://github.com/SereneSyntax04/DevOps-on-AWS/blob/685bc5511ba143bf45a27216dfb7820c4ae2fae2/images/monolithic.png"
+     alt="description" 
+     width="400"/>
+  </p>
 
+  
 ## Issue 3: Manual Processes
 - Slow and inconsistent – Manual work takes time and can vary each time.
 - Error-prone – Easy to miss steps or make mistakes.
@@ -75,7 +87,12 @@ Traditional software development is slow and causes delays due to rigid methods,
 - Testing depends on people – Developers may forget or skip tests, even with good intentions.
 - No guarantees – Repeating the same manual steps doesn't ensure the same results.
 
-![image alt](https://github.com/SereneSyntax04/DevOps-on-AWS/blob/685bc5511ba143bf45a27216dfb7820c4ae2fae2/images/manual.png)
+  <p align="center">
+  <img src="https://github.com/SereneSyntax04/DevOps-on-AWS/blob/685bc5511ba143bf45a27216dfb7820c4ae2fae2/images/manual.png"
+     alt="description" 
+     width="400"/>
+  </p>
+
 
 ## Issue 4: Siloed Teams
 - Teams work separately – Business, dev, QA, ops, etc., are divided by roles.
@@ -83,12 +100,19 @@ Traditional software development is slow and causes delays due to rigid methods,
 - Different goals/tools – Each team uses its own tools and follows its own priorities.
 - Hard to coordinate – Lack of shared ownership makes collaboration difficult.
 - Efficiency suffers – Projects slow down when everyone pulls in different directions.
-![image alt](https://github.com/SereneSyntax04/DevOps-on-AWS/blob/64919ac482a93fbc93fef4c3715bfa7ca5266343/images/Siloed.jpg)
+
+  <p align="center">
+  <img src="https://github.com/SereneSyntax04/DevOps-on-AWS/blob/64919ac482a93fbc93fef4c3715bfa7ca5266343/images/Siloed.jpg"
+     alt="description" 
+     width="400"/>
+  </p>
 
 
 
 ---
-# The benefits of DevOps
+
+<h1 align="center">The benefits of DevOps</h1>
+
 1.   Agility
 - Teams can quickly respond to changes and customer feedback.
 - Flexible processes make adapting easier.
